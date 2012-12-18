@@ -7,6 +7,9 @@
 # Ignore the database.yml
 /config/database.yml
 
+# Ignore schema.rb
+/db/schema.rb
+
 # Ignore private file about requiring private gems
 /config/initializers/private_gems.rb
 
